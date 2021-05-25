@@ -28,6 +28,20 @@ const userData = [
         github: "laylanorris",
         email: "layla_n@gmail.com",
         password: "p@ssword4"
+    },
+    {
+        username: "patricia_r",
+        twitter: "patriciar23",
+        github: "patrciar23",
+        email: "patricia_r@gmail.com",
+        password: "p@ssword5"
+    },
+    {
+        username: "jada",
+        twitter: "jada_d",
+        github: "jada",
+        email: "jadad@gmail.com",
+        password: "p@ssword6"
     }
 ]
 
