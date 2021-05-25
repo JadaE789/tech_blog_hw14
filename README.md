@@ -29,9 +29,9 @@
   
   N/A
   
-  ## Project Demo Video
+  ## Project Demo Video/App
   
-  Deployed on Heroku:
+  Deployed on Heroku: https://tech-14blog.herokuapp.com/
   
   ## Questions
   
